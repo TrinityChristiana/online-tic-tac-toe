@@ -1,0 +1,78 @@
+{
+  "users": {
+    "128qwfup6nPUpgRfsAKdgndhdcm2": {
+      "creationTime": "Sat, 23 Apr 2022 22:33:11 GMT",
+      "displayName": "Trinity Christiana",
+      "email": "trinitycterry@gmail.com",
+      "lastSignInTime": "Sat, 23 Apr 2022 22:33:11 GMT",
+      "photoURL": "https://lh3.googleusercontent.com/a-/AOh14Gg0hdgiqjT2o6_q7ducgj5K1kEg_LDnucMB6WPi2uI=s96-c",
+      "uid": "128qwfup6nPUpgRfsAKdgndhdcm2"
+    },
+    "128qwfup6nPUpgRfsAKdgndhd": {
+      "creationTime": "Sat, 23 Apr 2022 22:33:11 GMT",
+      "displayName": "Trinity Christiana",
+      "email": "trinitycterr@gmail.com",
+      "lastSignInTime": "Sat, 23 Apr 2022 22:33:11 GMT",
+      "photoURL": "https://lh3.googleusercontent.com/a-/AOh14Gg0hdgiqjT2o6_q7ducgj5K1kEg_LDnucMB6WPi2uI=s96-c",
+      "uid": "128qwfup6nPUpgRfsAKdgndhd"
+    },
+    "128qwfup6nPUpgRfsAKdgndhdc": {
+      "creationTime": "Sat, 23 Apr 2022 22:33:11 GMT",
+      "displayName": "Trinity Christiana",
+      "email": "trinitycter@gmail.com",
+      "lastSignInTime": "Sat, 23 Apr 2022 22:33:11 GMT",
+      "photoURL": "https://lh3.googleusercontent.com/a-/AOh14Gg0hdgiqjT2o6_q7ducgj5K1kEg_LDnucMB6WPi2uI=s96-c",
+      "uid": "128qwfup6nPUpgRfsAKdgndhdc"
+    },
+    "128qwfup6nPUpgRfsAKdgndhdcm": {
+      "creationTime": "Sat, 23 Apr 2022 22:33:11 GMT",
+      "displayName": "Trinity Christiana",
+      "email": "trinitycte@gmail.com",
+      "lastSignInTime": "Sat, 23 Apr 2022 22:33:11 GMT",
+      "photoURL": "https://lh3.googleusercontent.com/a-/AOh14Gg0hdgiqjT2o6_q7ducgj5K1kEg_LDnucMB6WPi2uI=s96-c",
+      "uid": "128qwfup6nPUpgRfsAKdgndhdcm"
+    }
+  },
+  "userFriends": {
+    "a": {
+      "id": "a",
+      "uid": "128qwfup6nPUpgRfsAKdgndhdcm2",
+      "requestUid": "128qwfup6nPUpgRfsAKdgndhdcm",
+      "accepted": false,
+      "dateSubmitted":"Sat, 23 Apr 2022 22:33:11 GMT"
+    },
+    "b": {
+      "id": "b",
+      "uid": "128qwfup6nPUpgRfsAKdgndhdcm2",
+      "requestUid": "128qwfup6nPUpgRfsAKdgndhdc",
+      "accepted": true,
+      "dateSubmitted":"Sat, 23 Apr 2022 22:33:11 GMT"
+    }
+    ,
+    "c": {
+      "id": "b",
+      "uid": "128qwfup6nPUpgRfsAKdgndhd",
+      "requestUid": "128qwfup6nPUpgRfsAKdgndhdcm2",
+      "accepted": false,
+      "dateSubmitted":"Sat, 23 Apr 2022 22:33:11 GMT"
+    }
+  },
+  "games": {
+    "asdasd": {
+      "id":"asdasd",
+      "cell-1": "128qwfup6nPUpgRfsAKdgndhdc",
+      "cell-2": "EMPTY",
+      "cell-3": "128qwfup6nPUpgRfsAKdgndhdc",
+      "cell-4": "EMPTY",
+      "cell-5": "EMPTY",
+      "cell-6": "128qwfup6nPUpgRfsAKdgndhdcm2",
+      "cell-7": "EMPTY",
+      "cell-8": "EMPTY",
+      "cell-9": "128qwfup6nPUpgRfsAKdgndhdcm2",
+      "turn": "128qwfup6nPUpgRfsAKdgndhdcm2",
+      "winner": "",
+      "uid-1": "128qwfup6nPUpgRfsAKdgndhdcm2",
+      "uid-2": "128qwfup6nPUpgRfsAKdgndhdc"
+    }
+  }
+}
